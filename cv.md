@@ -39,3 +39,8 @@ In my previous job I worked closely in a team, during which time our department 
     }
 
 ## Technical Experience
+I completed a course on "Web Development in PHP". I've also studied the basics of HTML, CSS, JS.
+
++ [My Project on PHP](https://www.codewars.com/kata/5264d2b162488dc400000001) / [GitHub](https://github.com/Aleksey4ik/crawler.git)
++ [My Project on JS](https://senla-todo.netlify.app) / [GitHub](https://guarded-chamber-75937.herokuapp.com/)
++ [My small project using AJAX](https://guarded-chamber-75937.herokuapp.com)
