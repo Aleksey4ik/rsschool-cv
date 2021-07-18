@@ -44,3 +44,10 @@ I completed a course on "Web Development in PHP". I've also studied the basics o
 + [My Project on PHP](https://www.codewars.com/kata/5264d2b162488dc400000001) / [GitHub](https://github.com/Aleksey4ik/crawler.git)
 + [My Project on JS](https://senla-todo.netlify.app) / [GitHub](https://guarded-chamber-75937.herokuapp.com/)
 + [My small project using AJAX](https://guarded-chamber-75937.herokuapp.com)
+
+## Education
+Graduated from the technical "University of Food" with a degree in automation engineering in 2006.
+In 2021 completed a course in "Web Development with PHP".
+
+## English level
+I have an A2 level of English. I am continuing to learn it on my own.
